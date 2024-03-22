@@ -1,4 +1,4 @@
-package loop;
+package loop.whiles;
 
 public class WhileTest03 {
 
